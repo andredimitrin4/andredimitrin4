@@ -4,7 +4,9 @@
 
 ![Python](https://img.shields.io/badge/Python-Study-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Study-yellow)
+![Go](https://img.shields.io/badge/Go-Starting%20Studies-00ADD8)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
+![SQL](https://img.shields.io/badge/Databases-SQL%20Basics-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Hobby%20Learning-success)
 
 Formado em Análise e Desenvolvimento de Sistemas  
@@ -29,11 +31,12 @@ Aqui você encontrará código escrito com foco em **aprendizado, clareza e evol
 
 ---
 
-## 🛠️ Tecnologias mais utilizadas
+## 🛠️ Tecnologias em uso e estudo
 - Python
 - JavaScript
+- Go (início dos estudos)
 - Git / GitHub
-- SQL (básico)
+- Bancos de dados relacionais (SQL)
 
 ---
 
@@ -42,6 +45,7 @@ Aqui você encontrará código escrito com foco em **aprendizado, clareza e evol
 - Estruturas de dados
 - Boas práticas de código
 - Organização e refatoração
+- Conceitos básicos de banco de dados
 
 ---
 
