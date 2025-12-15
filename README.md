@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou o André
 
-<!--
-**andredimitrin4/andredimitrin4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou formado em Análise e Desenvolvimento de Sistemas e já atuei como estagiário em programação.
+Hoje programo por hobby e utilizo este GitHub como um laboratório pessoal de aprendizado.
 
-Here are some ideas to get you started:
+## O que você vai encontrar aqui
+- Estudos organizados por tema
+- Exercícios de lógica e algoritmos
+- Pequenos projetos experimentais
+- Scripts e anotações técnicas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias mais usadas
+- Python
+- JavaScript
+- Git / GitHub
+- SQL (básico)
+
+## Em estudo contínuo
+- Algoritmos
+- Estruturas de dados
+- Boas práticas de código
+
+> Este perfil não é um portfólio profissional.  
+> É um espaço pessoal de estudo e evolução técnica.
