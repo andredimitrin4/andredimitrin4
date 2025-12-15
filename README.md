@@ -1,24 +1,36 @@
-# Olá, eu sou o André
+<div align="center">
 
-Sou formado em Análise e Desenvolvimento de Sistemas e já atuei como estagiário em programação.
-Hoje programo por hobby e utilizo este GitHub como um laboratório pessoal de aprendizado.
+# André E. Dimitrin Andrade
 
-## O que você vai encontrar aqui
+Formado em Análise e Desenvolvimento de Sistemas  
+Programação por hobby • Laboratório pessoal de estudos
+
+</div>
+
+---
+
+## 📂 O que você vai encontrar aqui
 - Estudos organizados por tema
 - Exercícios de lógica e algoritmos
 - Pequenos projetos experimentais
 - Scripts e anotações técnicas
 
-## Tecnologias mais usadas
+---
+
+## 🧠 Tecnologias mais usadas
 - Python
 - JavaScript
 - Git / GitHub
 - SQL (básico)
 
-## Em estudo contínuo
+---
+
+## 📚 Em estudo contínuo
 - Algoritmos
 - Estruturas de dados
 - Boas práticas de código
 
+---
+
 > Este perfil não é um portfólio profissional.  
-> É um espaço pessoal de estudo e evolução técnica.
+> É um espaço pessoal de aprendizado contínuo.
